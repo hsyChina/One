@@ -25,7 +25,7 @@
         android:layout_marginTop="200dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="哈哈"
+        android:text="我是中国人"
         android:id="@+id/one"/>
 
     <com.google.android.material.floatingactionbutton.FloatingActionButton
